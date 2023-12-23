@@ -1,6 +1,6 @@
 # Uadcity - Programming for Data Science with Python (Nanodegree)
 
-<img src="Data-Science.jpg" width="800">
+<img src="Data-Science.jpg" width="1000">
 
 # Created by Ibtisam Alzahrani
 
