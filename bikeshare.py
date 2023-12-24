@@ -12,11 +12,11 @@ def get_filters():
     """
     Asks the user to specify a city, month, and day to analyze.
     Returns:
-    (str) city - name of the city to analyze
-    (str) month - name of the month to filter by, or "all" to apply no month filter
-    (str) day - name of the day of the week to filter by, or "all" to apply no day filter
+    (str) city -name of the city to analyze
+    (str) month -name of the month to filter by, or "all" to apply no month filter
+    (str) day -name of the day of the week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('\n\nLet's explore some US bikeshare data!\n')
     
     # Get user input for the city with input validation.
     while True:
