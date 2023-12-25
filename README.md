@@ -13,12 +13,12 @@ In the presentation phase, the student was tasked with constructing four slides,
 
 ### Project Completion
 
-[Review My Project solution]
+[Review My Project solution] (https://github.com/Ebtisammjsz/pdsnd_github/blob/master/Project1/SQL_Project.zip)
 
 
 ### Query Sets
 
-[ Check my solution]
+[ Check my solution] (https://github.com/Ebtisammjsz/pdsnd_github/blob/master/Project1/SQL_Project.zip)
 
 
 ## Project 2
